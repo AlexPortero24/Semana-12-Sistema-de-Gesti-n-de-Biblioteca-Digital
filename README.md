@@ -1,4 +1,4 @@
-# Semana-12-Sistema-de-Gesti-n-de-Biblioteca-Digital
+
 # Sistema de Gestión de Biblioteca Digital
 
 ## Descripción
